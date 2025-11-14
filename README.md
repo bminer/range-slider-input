@@ -4,6 +4,8 @@
 [npm-url]: https://npmjs.org/package/range-slider-input
 [size-image]: https://img.shields.io/bundlephobia/minzip/range-slider-input@latest
 [size-url]: https://bundlephobia.com/result?p=range-slider-input@latest
+[jsdelivr-image]: https://data.jsdelivr.com/v1/package/npm/range-slider-input/badge
+[jsdelivr-url]: https://www.jsdelivr.com/package/npm/range-slider-input
 [vulnerabilities-image]: https://snyk.io/test/npm/range-slider-input/badge.svg
 [vulnerabilities-url]: https://snyk.io/test/npm/range-slider-input
 [standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
@@ -12,7 +14,7 @@
 [license-url]: https://github.com/n3r4zzurr0/range-slider-input/blob/main/LICENSE
 
 # range-slider-input
-[![circleci][circleci-image]][circleci-url] [![npm][npm-image]][npm-url] [![minzipped size][size-image]][size-url] [![known vulnerabilities][vulnerabilities-image]][vulnerabilities-url] [![javascript style guide][standard-image]][standard-url] [![license][license-image]][license-url]
+[![circleci][circleci-image]][circleci-url] [![npm][npm-image]][npm-url] [![minzipped size][size-image]][size-url] [![jsDeliver hits][jsdelivr-image]][jsdelivr-url] [![known vulnerabilities][vulnerabilities-image]][vulnerabilities-url] [![javascript style guide][standard-image]][standard-url] [![license][license-image]][license-url]
 
 A lightweight (~2kB) library to create range sliders that can capture a value or a range of values with one or two drag handles.
 
